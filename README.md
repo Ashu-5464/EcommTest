@@ -16,5 +16,5 @@ This is a basic e-commerce app built with React Native. It includes user authent
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/ecommerce-app.git
+   git clone https://github.com/Ashu-5464/EcommTest
    cd ecommerce-app
